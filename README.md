@@ -1,5 +1,5 @@
 # Android Layout Part A
-Untuk melengkapi tugas minggu pertama mata kuliah Pemrograman Mobile
+Untuk melengkapi tugas minggu ketiga mata kuliah Pemrograman Mobile
 
 Screenshot hasil running, bukti bahwa program telah berhasil dijalankan
 ![Screenshot](images/Screenshot_1663316235.png)
